@@ -1,0 +1,25 @@
+{
+	"contentrating" : "Everyone",
+	"dependency" : "882888748",
+	"file" : "",
+	"preset" : 
+	{
+		"audioprocessing" : true,
+		"bgcolor" : "0 0 0",
+		"hilines" : false,
+		"image" : "files/BackGround.jpg",
+		"imgpos" : 0,
+		"imgtype" : 0,
+		"pos" : 3,
+		"repeating" : 3,
+		"schemecolor" : "0.7803921568627451 0.7725490196078432 0.7607843137254902",
+		"showclock" : true,
+		"showsecs" : true,
+		"taskbar" : 2,
+		"timeformat" : true
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Retro" ],
+	"title" : "Simple Clock",
+	"visibility" : "public"
+}
